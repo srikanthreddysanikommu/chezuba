@@ -1,0 +1,15 @@
+{ 
+"name": "Test User", 
+"phoneNum": "9999933333", 
+"profilePic": "http://snaplant.com/wp-content/uploads/2015/10/Snake-Gourd-Trichosanthes-cucumerina.jpg", 
+"address": "Hyderabad, India", 
+"facebookLink": "https://facebook.com/testuser/", 
+"instagramLink": "https://instagram.com/testuser/", 
+"skills": "Programming,photoshop", 
+"projects": 
+[ { "name": "Project 1", 
+"description": "Some description", 
+"technologies": "Html, CSS, JavaScript" 
+} ] 
+
+} 
